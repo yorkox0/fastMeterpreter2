@@ -1,6 +1,6 @@
 ## fastMeterpreter2
 
-## Requiriments
+## Requirements
 
 ```
 sudo apt install metasploit-framwerk gnome-terminal python3 python3-pip nc
@@ -11,6 +11,6 @@ sudo apt install metasploit-framwerk gnome-terminal python3 python3-pip nc
 ```
 git clone https://github.com/yorkox0/fastMeterpreter2
 cd fastMeterpreter2
-pip3 install -r requiriments.txt
+pip3 install -r requirements.txt
 python3 fastMeterpreter2.py
 ```
