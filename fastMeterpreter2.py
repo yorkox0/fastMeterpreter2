@@ -381,6 +381,3 @@ if payload == "android/shell/reverse_tcp":
 
 if payload == "android/shell/reverse_http":
         asrhttp()
-
-# if __name__ == '__main__':
-# 	main()
